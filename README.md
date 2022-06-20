@@ -1,1 +1,1 @@
-# Two-Whelled-Robot
+# Two-Wheeled-Robot
